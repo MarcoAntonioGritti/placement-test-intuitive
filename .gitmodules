@@ -1,0 +1,12 @@
+[submodule "repositorio-ans-pdf-scraper"]
+	path = repositorio-ans-pdf-scraper
+	url = https://github.com/MarcoAntonioGritti/ans-pdf-scraper.git
+[submodule "repositorio-data-transformation"]
+	path = repositorio-data-transformation
+	url = https://github.com/MarcoAntonioGritti/ans-data-transformation.git
+[submodule "repositorio-test-db-scripts"]
+	path = repositorio-test-db-scripts
+	url = https://github.com/MarcoAntonioGritti/test-db-scripts.git
+[submodule "repositorio-web-api-test-intuitive"]
+	path = repositorio-web-api-test-intuitive
+	url = https://github.com/MarcoAntonioGritti/web-api-test-intuitive.git
